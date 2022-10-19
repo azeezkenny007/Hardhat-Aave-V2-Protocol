@@ -26,3 +26,6 @@ Repay the loan
 6. We use ChainLink PriceFeeds to get the price of DAI/ETH --how is this made possible without the mock
       * We did a mainnet forking - which means having a copy of all the priceFeeds , transaction Records into my local machine , this does not distrupt the working flow of the blockchain, as it is only a simulation of the real chain
     * Connection made possible using Alchemy Api-Keys
+    
+<div style="margin-top:20px"></div>
+All implementations can be found in the Scripts Folder
