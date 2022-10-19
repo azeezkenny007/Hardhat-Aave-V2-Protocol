@@ -1,4 +1,4 @@
-# Aave-v2 Defi protocol Explained
+# 💫 Aave-v2 Defi protocol Explained
 
 Deposit Collateral: ETH / WETH ✅
 
